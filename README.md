@@ -21,6 +21,8 @@ _manyyyyy gifs :)_
 
 ---
 
+![GIPHY API Preview](screen2.png)
+
 ## 🛠 Tech Stack
 
 | Technology | Purpose |
