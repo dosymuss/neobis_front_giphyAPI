@@ -1,16 +1,82 @@
- # neobis_front_giphyAPI
+# 🎞️ neobis_front_giphyAPI
+
 _manyyyyy gifs :)_
 
-## file structure
-the file consists of html and css and js. The site uses fetch requests and it's all
+**neobis_front_giphyAPI** — третий проект, разработанный в рамках профессиональной стажировки в **Neobis**.
 
-## file description
-The project is needed to strengthen knowledge in the field of fetch queries. It consists of a search engine and gifs.
+Проект представляет собой веб-приложение для поиска и просмотра GIF-анимаций с использованием внешнего API сервиса GIPHY.
 
-## usage
-Open the link. Find a gif. And enjoy
+Основная цель проекта — закрепить практические навыки работы с JavaScript, освоить Fetch API и научиться получать, обрабатывать и отображать данные из сторонних API.
 
-[manyyyyy gifs :)](https://dosymuss.github.io/neobis_front_giphyAPI/) 
+---
+
+## ✨ Features
+
+- 🔎 **GIF Search** — поиск GIF-анимаций по ключевым словам.
+- 🎞️ **GIF Gallery** — отображение найденных GIF в удобном формате.
+- 🌐 **API Integration** — получение данных с помощью GIPHY API.
+- ⚡ **Fetch API** — выполнение асинхронных HTTP-запросов.
+- 🔄 **Dynamic Content** — динамическое обновление контента без перезагрузки страницы.
+- 🎨 **Simple UI** — удобный и понятный пользовательский интерфейс.
+
+---
+
+## 🛠 Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| HTML5 | Структура веб-страницы |
+| CSS3 | Стилизация интерфейса |
+| JavaScript (ES6+) | Клиентская логика приложения |
+| Fetch API | Выполнение HTTP-запросов |
+| GIPHY API | Получение GIF-анимаций |
+
+---
+
+## 🧠 What I Learned
+
+В ходе разработки проекта я получил практический опыт:
+
+- Работы с Fetch API для отправки HTTP-запросов.
+- Интеграции сторонних API в веб-приложение.
+- Получения и обработки JSON-данных.
+- Использования Promise и асинхронных операций.
+- Динамического создания и отображения HTML-элементов.
+- Обработки результатов поиска и пользовательского ввода.
+- Работы с DOM и событиями JavaScript.
+
+---
+
+## 💻 Usage
+
+1. Откройте приложение по ссылке ниже.
+2. Введите ключевое слово в поисковую строку.
+3. Найдите интересующую GIF-анимацию.
+4. Просматривайте результаты и наслаждайтесь коллекцией GIF!
+
+---
+
+## 👨‍💻 About the Project
+
+**Developer:** Дастан Алмазбеков
+
+**Role:** Frontend Developer
+
+**Organization:** Neobis
+
+**Project:** Third Internship Project
+
+**Main Focus:** JavaScript, Fetch API, GIPHY API
+
+---
+
+## 🔗 Live Demo
+
+[manyyyyy gifs :)](https://dosymuss.github.io/neobis_front_giphyAPI/)
+
+---
+
+⭐ Thanks for checking out my project!
 
 
 
